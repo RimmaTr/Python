@@ -1,1 +1,1 @@
-Print("Привет Мир!")
+Print("Hallo World!")
